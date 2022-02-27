@@ -1,0 +1,63 @@
+.contact{
+    height: 100vh;
+
+}
+.contact h3{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+.contact p{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.ct{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 100px;
+}
+.ct .ip1 input{
+width: 30rem;
+height: 30px;
+    border-radius: 10px;
+    margin: 50px;
+    border: 1px solid white;
+  background-color: #212121;
+  color: white;
+
+
+}
+.ct .ip2 textarea{
+width: 30rem;
+height: 10rem;
+    border-radius: 20px;
+    padding-left: 5px;
+    text-align: start;
+    border: 1px solid white;
+  background-color: #212121;
+  color: white;
+  font-weight: bold;
+
+
+}
+.ct button{
+  color: white;
+
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    margin: 20px;
+    font-weight: bold;
+    border: 1px solid white;
+  background-color: #212121;
+
+}
+.ct button:hover{
+    opacity: 0.8;
+    background-color: #242323;
+    cursor: pointer;
+}
