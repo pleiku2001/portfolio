@@ -58,7 +58,8 @@
     font-weight: bold;
 }
 .btn a:hover{
-    background-color: rgb(245, 49, 0);
+    /* background-color: rgb(245, 49, 0); */
+    
     opacity: 0.8;
     transition: all 0.3s ;
 }
@@ -67,3 +68,6 @@
 }
 
 
+.logo img{
+    margin-right: 20px;
+}

@@ -2,7 +2,7 @@ import React from "react";
 import "./projects.css";
 function Projects() {
   return (
-    <div className="project">
+    <div className="project" id="project">
       <h1>Projects</h1>
       <div className="box">
         {/*  */}
