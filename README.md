@@ -1,6 +1,5 @@
 ### Webdemo
 
-https://focused-swartz-082b00.netlify.app/
 
 
 # Getting Started with Create React App
