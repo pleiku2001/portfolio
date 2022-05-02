@@ -9,11 +9,13 @@ function Main() {
         <span>
           <p>Hello, 👋 </p>
           <p className="second">
-            <span>My name is </span> <span>Nguyễn Trung Kiên</span>
+            <span>Tôi tên là</span> <span>Nguyễn Trung Kiên</span>
           </p>
           <p className="third">
-            I am studying at University of Information Technology in Ho Chi Minh
-            city
+            Hiện đang học năm 3 đại học Công nghệ thông tin - HCM 
+          </p>
+          <p className="third">
+            Chuyên ngành thương mại điện tử
           </p>
           <div className="logo">
             <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
